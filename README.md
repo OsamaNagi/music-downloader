@@ -1,2 +1,2 @@
 # music-downloader
-A simple python program to download music from the YouTube
+A simple python program to download music from YouTube
